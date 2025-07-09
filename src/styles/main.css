@@ -309,4 +309,8 @@ img {
     right: 5%;
     position: absolute;
   }
+
+  .versus-bottom {
+    margin-top: .5rem;
+  } 
 }
